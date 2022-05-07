@@ -7,7 +7,7 @@
 ---
 ### Classement
 
-![classement.png](../Images/classement.png)
+![classement.png](Images/classement.png)
 
 Je suis content d'avoir pu terminer 2ème de ce CTF puisque c'était mon premier CTF orienté OSINT.
 Un gros gg à tous les participants et aux organisateurs !
@@ -15,5 +15,5 @@ Un gros gg à tous les participants et aux organisateurs !
 ---
 ### Vue d'ensemble des challenges
 
-![all_challenges.png](../Images/all_challenges.png)
+![all_challenges.png](Images/all_challenges.png)
 
