@@ -11,6 +11,7 @@ Voici la photo qu'on avait pour le challenge [Femme à la barricade](Femme%20%C3
 ![recap_femme_barricade.png](recap_femme_barricade.png)
 
 Et voici la nouvelle photo (celle-ci a été récupérée via Yandex pendant le challenge [Femme à la barricade](Femme%20%C3%A0%20la%20barricade.md) mais on aurait pu très bien se baser sur celle donnée dans l'énoncé):
+
 ![nouvelle_photo_femme_barricade.png](../Images/nouvelle_photo_femme_barricade.png)
 
 Même si de visuel on voyait bien que c'était la même personne et le même lieu entre les deux photos, j'ai fait exprès de forcer sur les preuves pour montrer comment on peut identifier des éléments qui nous permettent ensuite de comparer des photos et vérifier qu'elles snot liées.
@@ -27,6 +28,7 @@ On connaît la rue et la ville, il nous suffit de nous y rendre:
 ![angle_rue_huchette.png](../Images/angle_rue_huchette.png)
 
 On s'y rend à pied avec Street Maps:
+
 ![dam_dom_street_maps.png](../Images/dam_dom_street_maps.png)
 
 [Lien Maps](https://www.google.com/maps/@48.8528,2.346508,3a,75y,26.39h,92.81t/data=!3m6!1e1!3m4!1su0XF3eZ2gVg5G8H2aJ4NWw!2e0!7i16384!8i8192)
