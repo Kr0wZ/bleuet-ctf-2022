@@ -18,6 +18,7 @@ Premièrement je me suis attardé sur ce qui ressortait au niveau des couleurs c
 ![rgb.png](../Images/rgb.png)
 
 J'ai donc continué et au niveau de `zsteg` le flag est apparu:
+
 ![flag_enigma.png](../Images/flag_enigma.png)
 
 Ce challenge était également réalisable en local directement avec l'outil `zsteg`. C'est un outil qui permet de détecter si de la donnée est stockée dans des images via différentes techniques (LSB, compression...).
