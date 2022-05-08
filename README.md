@@ -1,7 +1,7 @@
 # BleuetCTF
 
 - Lien du CTF: https://bleuet.aege.fr/
-- Organisé par: https://www.aege.fr/
+- Organisé par: https://twitter.com/Steven_DFS et https://www.aege.fr/groupe/club-osint-veille-18
 - Pour faire un don au Bleuet de France: https://www.onac-vg.fr/dons/
 
 - Mon [Twitter @ZworKrowZ](https://twitter.com/ZworKrowZ)
