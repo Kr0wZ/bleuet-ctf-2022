@@ -7,9 +7,15 @@ La partie la plus difficile est de trouver le thème de ces mots.
 
 C'est le deuxième qui m'a mit la puce à l'oreille.
 
-Il s'agit donc de camps de concentration et d'extermination. Je vous avoue que je n'ai pas réussi à trouver le premier. J'ai quand même pu deviner la dernière lettre. N'hésitez pas à me donner la solution sur mon Twitter ([@ZworKrowZ](https://twitter.com/ZworKrowZ)).
+Il s'agit donc de camps de concentration et d'extermination. Je vous avoue que je n'ai pas réussi à trouver le premier. J'ai quand même pu deviner la dernière lettre.
 
-![solution_puzzle.png](../Images/solution_puzzle.png)
+Avec l'aide du hint on avait cette photo:
+
+![hint_puzzle.png](../Images/hint_puzzle.png)
+
+Avec quelques recherches on se rend compte qu'il s'agit d'un cylindre de bronze qui porte les noms des camps qu'on doit deviner et qui se situe dans le parvis à côté du mur des justes: [Le Parvis](https://www.memorialdelashoah.org/le-memorial/les-espaces-du-musee-memorial/le-parvis.html)
+
+![solution_puzzle_memoriel.png](../Images/solution_puzzle_memoriel.png)
 
 ---
 ### Flag
