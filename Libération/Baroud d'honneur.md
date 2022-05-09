@@ -8,26 +8,35 @@ Je vous laisse vous renseigner sur ce qu'est un cadastre si vous ne savez pas: h
 Pour ce challenge nous avons plusieurs mots clés à notre disposition pour nous aider dans nos recherches:
 - **Hôtel**
 - **Gouverneur**
-- **Garnison du "Gross Paris"**
+- **Garnison du "Groß Paris"**
 
 Il faut trouver où se situe l'hôtel pour ensuite accéder au registre cadastral et récupérer les informations qui nous intéressent.
 
+Pour ce faire, on peut procéder de manière méthodique:
+- On trouve l'identité de ce gouverneur de la garnison du "Groß Paris".
+- On trouve où est-ce qu'il avait ses habitudes.
+- On trouve la localisation de l'hôtel.
+
 On commence par une recherche Google:
 ```
-garnison du gross paris
+garnison du groß paris
 ```
 
 Le premier lien nous renvoie vers [Wikipédia](https://fr.wikipedia.org/wiki/Paris_sous_l%27occupation_allemande). 
-Avec une recherche dans la page sur "gross" on obtient le nom de l'hôtel: `hôtel Meurice`:
+Avec une recherche dans la page sur "groß" on obtient le nom de l'hôtel: `hôtel Meurice`:
 ![meurice_wiki.png](../Images/meurice_wiki.png)
 
 Il y a également plein d'autres façons de trouver le nom de l'hôtel. Un autre moyen est de chercher l'ensemble des mots clés:
 ```
-hotel gouverneur gross paris
+hotel gouverneur groß paris
 ```
 
 On tombe alors sur des liens mentionnant l'hôtel Meurice:
 ![google_meurice.png](../Images/google_meurice.png)
+
+Il est possible de tomber aussi directement sur la page [Wikipédia](https://fr.wikipedia.org/wiki/Dietrich_von_Choltitz) liée à ce fameux général.
+Au niveau de la section **Opérations** on apprend qu'il a pris ses quartiers à l'hôtel Meurice.
+Dans le narratif, le général Dietrich Von Choltitz est présenté comme étant le "sauveur de paris" et aurait refusé d'exécuter les ordres d'Hitler qui lui aurait demander de faire sauter Paris.
 
 On cherche alors l'adresse de ce fameux hôtel et on trouve: 
 ```
@@ -48,6 +57,11 @@ Mais on peut avoir plus d'informations en allant sur "S"informer" (1), on clique
 
 La parcelle et la section sont toujours indiqués et on peut même voir la surface de la parcelle:
 ![infos_parcelle.png](../Images/infos_parcelle.png)
+
+Un autre site officiel du gouvernement peut également nous permettre de résoudre ce challenge: [Cadastre France](https://cadastre.data.gouv.fr/map?style=ortho&parcelleId=75101000AY0005#18/48.865349/2.328214)
+
+![cadastre_2.png](../Images/cadastre_2.png)
+
 
 ---
 ### Flag
