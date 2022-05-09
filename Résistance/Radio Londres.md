@@ -11,7 +11,7 @@ On charge le fichier dans Audacity, on regarde les deux pistes audio et on écou
 
 Suite à cette écoute on peut identifier trois portions qui peuvent être intéressantes:
 
-![audacity_pistes.png](../Images/audacity_pistes.png)
+![audacity_piste.png](../Images/audacity_piste.png)
 
 - La première partie (rouge) semble accélérée.
 - La deuxième partie (vert) semble inversée.
