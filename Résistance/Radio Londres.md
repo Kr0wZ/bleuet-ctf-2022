@@ -14,8 +14,8 @@ Suite à cette écoute on peut identifier trois portions qui peuvent être inté
 ![audacity_piste.png](../Images/audacity_piste.png)
 
 - La première partie (rouge) semble accélérée.
-- La deuxième partie (vert) semble inversée.
-- La dernière partie (jaune) semble ralentie.
+- La deuxième partie (jaune) semble inversée.
+- La dernière partie (vert) semble ralentie.
 
 On va donc prendre les parties une à une et faire les modifications nécessaires pour les rendre audibles.
 
