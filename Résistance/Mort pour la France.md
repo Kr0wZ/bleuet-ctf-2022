@@ -16,7 +16,7 @@ L'emplacement semble correspondre aux données précédentes.
 
 On va donc se rendre toujours avec Maps sur le carrefour:
 
-![panneau_villes.png](../Images/panneau_villes.png)
+![panneau_villes_stele.png](../Images/panneau_villes_stele.png)
 
 [Lien Maps](https://www.google.com/maps/@47.8320703,6.2162915,3a,54.2y,341.53h,82.28t/data=!3m6!1e1!3m4!1swRqj26fwBS8AbaZjYP8hRg!2e0!7i16384!8i8192)
 
