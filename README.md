@@ -6,6 +6,8 @@
 
 - Mon [Twitter @ZworKrowZ](https://twitter.com/ZworKrowZ)
 
+Un grand merci à [@Steven_DFS](https://twitter.com/Steven_DFS) qui m'a aidé à corriger et améliorer ces writeups :)
+
 ---
 ### Classement
 
