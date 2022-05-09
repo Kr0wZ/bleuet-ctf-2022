@@ -38,7 +38,7 @@ Après ~~quelques~~ **BEAUCOUP** de recherches et de désespoir j'ai eu l'idée 
 
 Le flag se valide donc avec cette orthographe.
 
-La leçon a retenir de ce challenge c'est qu'il ne faut jamais faire confiance à l'orthographe des noms qu'on recherche, et qu'un tout petit changement peut donner un résultat otalement différent.
+La leçon a retenir de ce challenge c'est qu'il ne faut jamais faire confiance à l'orthographe des noms qu'on recherche, et qu'un tout petit changement peut donner un résultat totalement différent.
 
 ---
 ### Flag
