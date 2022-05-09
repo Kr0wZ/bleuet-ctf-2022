@@ -40,6 +40,8 @@ Le flag se valide donc avec cette orthographe.
 
 La leçon a retenir de ce challenge c'est qu'il ne faut jamais faire confiance à l'orthographe des noms qu'on recherche, et qu'un tout petit changement peut donner un résultat totalement différent.
 
+On peut également vérifier l'identité de cette femme après coup dans le challenge [Passant, souviens toi](https://github.com/Kr0wZ/bleuet-ctf-2022/blob/master/Comm%C3%A9moration/Passant%2C%20souviens-toi%20!.md) lorsqu'il faut localiser la plaque commémorative.
+
 ---
 ### Flag
 ```
